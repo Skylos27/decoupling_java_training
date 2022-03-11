@@ -1,6 +1,9 @@
 # IntelliJ
 .idea/
 *.iml
+<<<<<<< HEAD
 
+=======
+>>>>>>> d456209cb017f8fd4c681333256fe1699124eded
 # Maven
 target/
